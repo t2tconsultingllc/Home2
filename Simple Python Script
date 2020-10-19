@@ -1,0 +1,8 @@
+Variables and line breaks
+Example
+>>> Fruits = "Apple\nOrange\nBanana"
+>>> print (Fruits)
+Apple
+Orange
+Banana
+>>>
